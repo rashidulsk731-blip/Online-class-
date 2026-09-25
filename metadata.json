@@ -1,0 +1,6 @@
+{
+  "name": "Student Education",
+  "description": "Class 11-12 School Learning App for PM Shri Berbhngi HS School with Assamese and English languages",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
